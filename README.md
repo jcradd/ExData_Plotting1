@@ -1,3 +1,7 @@
+##
+Per instructions, each R script independently downloads the data.  
+The png files created are identical to the original samples except for the requested size.
+
 ## Introduction
 
 This assignment uses data from
